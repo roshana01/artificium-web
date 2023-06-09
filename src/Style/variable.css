@@ -1,0 +1,24 @@
+:root {
+  /* dark */
+  --Noble-Black--900: #0D0F10;
+  --Noble-Black--800: #0D0F10;
+  --Noble-Black--700: #131619;
+  --Noble-Black--600: #1A1D21;
+  --Noble-Black--500: #363A3D;
+  --Noble-Black--400: #686B6E;
+  --Noble-Black--300: #9B9C9E;
+  --Noble-Black--200: #CDCECF;
+  --Noble-Black--100: #FFFFFF;
+
+
+  --Purple-Blue--300: #BD9AF8;
+  --Heisenberg-Blue--500:#82DBF7;
+  --Stem-Green--500:#B6F09C;
+  --Sunglow--500:#FFD147;
+  --Red-Power--600:#D0302F;
+  --Electric-Green--600:#4AC97E;
+  --Happy-Orange--600:#E26F20;
+  --Day-Blue--500:#4D62E5;
+  --Gradients-Blue--Green-500:#82DBF7 ,#B6F09C;
+
+}
