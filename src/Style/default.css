@@ -1,0 +1,41 @@
+/* Start Default Styles */
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  height: 100%;
+  line-height: 1.6;
+  font-size: 1.6rem;
+  /* font-family: var(--font-regular-primary); */
+  /* background-color: var(--color-slate-2); */
+  /* color: var(--color-slate-12); */
+  /* transition: background var(--theme-transition-delay); */
+}
+
+#root {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+*,
+*::after,
+*::before {
+  outline: none;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  transition: all 400ms ease;
+}
+
+i {
+  user-select: none;
+}
+
+/* Finish Default Styles */
